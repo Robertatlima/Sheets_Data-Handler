@@ -1,6 +1,6 @@
 # TUNTS.ROCKS CHALLENGE
 
-- Google Sheets Reader and Manipulator
+- Google Sheets Reader and Manipulator -
   A Node.js application capable of reading and manipulating Google Sheets.
 
 Public link to the copied spreadsheet:
