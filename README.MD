@@ -1,23 +1,23 @@
 # TUNTS.ROCKS CHALLENGE
 
-- Leitor e Manipulador de Planilha Google Sheets
-  Uma aplicação em Node.js capaz de ler e manipular planilhas do google sheets.
+- Google Sheets Reader and Manipulator
+  A Node.js application capable of reading and manipulating Google Sheets.
 
-Link público da planilha copiada:
+Public link to the copied spreadsheet:
 https://docs.google.com/spreadsheets/d/1_ingb7t4NRT3T1TqNsjO8Jpwb5KakfMiHGs9AaWQpVQ/edit?usp=sharing
 
-## Pré-requisitos
+## Prerequisites
 
-- Node.js instalado
-- npm (Node Package Manager) instalado
+- Node.js installed
+- npm (Node Package Manager) installed
 
-## Instalação
+## Installation
 
-1. Clone o repositório
-2. Navegue até o diretório da aplicação
-3. Instale as dependências:
+1. Clone this repository
+2. Navigate to the application directory
+3. Install dependencies:
    - npm install
-4. Renomeie o arquivo credentials.example.json para credentials.json:
-   - É necessário inserir as suas credencias do google sheets
-5. Inicie a aplicação:
+4. Rename the credentials.example.json file to credentials.json:
+   - You need to insert your Google Sheets credentials
+5. Start the application:
    - npm start
